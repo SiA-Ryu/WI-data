@@ -4,4 +4,4 @@ Employing the Wireless Insite ray tracing tool, we meticulously quntifierd the R
 
 In each csv file, we compiled RSRP dataset originating from five BSs.
 Rows represent each point in the moving route, and columns represent 256 possible beam indices formed by 16x16 antenna. 
-Each value is the measured RSRP when the corresponding beam is used at each point.
+Each value is the measured RSRP when the corresponding beam is used at each point. The unit of values is [dBm].
