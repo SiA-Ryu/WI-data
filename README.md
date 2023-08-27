@@ -8,6 +8,6 @@ Rows represent each point in the moving route and it consists of a total of 824 
 
 Columns represent 256 possible beam indices formed by 16x16 antenna configuration. 
 The beam index h x v denotes the beam index along the horizontal and vertical directions. 
-Beam f indicated in the label of the columns is calculated as 16 x (h - 1) + v.
+Beam f indicated in the label of the columns is calculated as f = 16 x (h - 1) + v.
 
 Each value is the measured RSRP when the corresponding beam is used at each point. The unit of values is [dBm].
